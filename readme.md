@@ -39,9 +39,9 @@ class ApiController extends BaseController{
 
 		$query = DB::table('users')->where('id', $dados['user_id'])->first();
 		return response()->json(array(
-				'status' => true,
-				'message' => 'User',
-				'response' => $query
+		   'status' => true,
+		   'message' => 'User',
+		   'response' => $query
 		));
 	}
 
@@ -49,9 +49,9 @@ class ApiController extends BaseController{
 
 		$query = DB::table('users')->get();
 		return response()->json(array(
-				'status' => true,
-				'message' => 'User',
-				'response' => $query
+		   'status' => true,
+		   'message' => 'User',
+		   'response' => $query
 		));
 	}
 
