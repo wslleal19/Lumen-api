@@ -15,7 +15,7 @@ Configure seu arquivo .env e já está pronto para usar.
 
 	 $api->post('get_user', 'App\Http\Controllers\Api\ApiController@getUser');
 	 $api->post('get_all_users', 'App\Http\Controllers\Api\ApiController@getAllUsers');
-});
+ });
 ```
 
 **No controller: ApiController crie seus métodos.**
