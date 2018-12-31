@@ -50,7 +50,7 @@ class ApiController extends BaseController{
 		$query = DB::table('users')->get();
 		return response()->json(array(
 		   'status' => true,
-		   'message' => 'User',
+		   'message' => 'Users array',
 		   'response' => $query
 		));
 	}
