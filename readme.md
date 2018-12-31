@@ -59,5 +59,5 @@ class ApiController extends BaseController{
 }
 ```
 ## Documentation ##
-- [Lumen micro-framework!](http://google.com)
-- [Dingo Api!](https://lumen.laravel.com/)
+- [Lumen micro-framework!](https://lumen.laravel.com/)
+- [Dingo Api!](https://github.com/dingo/api)
