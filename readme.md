@@ -12,8 +12,8 @@ Configure seu arquivo .env e já está pronto para usar.
  $api = app('Dingo\Api\Routing\Router');
 
  $api->version('v1', function ($api) {
-	 $api->post('get_user', 'App\Http\Controllers\Api\ApiController@getUser');
-	 $api->post('get_all_users', 'App\Http\Controllers\Api\ApiController@getAllUsers');
+    $api->post('get_user', 'App\Http\Controllers\Api\ApiController@getUser');
+    $api->post('get_all_users', 'App\Http\Controllers\Api\ApiController@getAllUsers');
  });
 ```
 
