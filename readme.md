@@ -60,3 +60,6 @@ class ApiController extends BaseController{
 ## Documentation ##
 - [Lumen micro-framework](https://lumen.laravel.com/)
 - [Dingo Api](https://github.com/dingo/api)
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
