@@ -5,7 +5,7 @@ Rest Api usando Lumen micro-framework e Dingo Api
 ## Start ##
 Configure seu arquivo .env e já está pronto para usar.
 
-**Examples :**
+**Examples :**<br/>
 **No arquivo routes/web.php configure suas rotas**
 
 ```php
