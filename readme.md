@@ -62,4 +62,4 @@ class ApiController extends BaseController{
 - [Dingo Api](https://github.com/dingo/api)
 
 
-![Image of Yaktocat](https://imgur.com/a/Is6o0Yq)
+![Image of Yaktocat](https://i.imgur.com/GNRLRro.png)
